@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 5fff0db5-801c-4640-647b-2436c93d280a
+  name: Online Publication
+  pageRef: /pages/online-publication
+  weight: 10
