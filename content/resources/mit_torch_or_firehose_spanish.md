@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/fe0156dad4de44ab1043827907bdb6a9_MIT_Torch_or_Firehose_Spanish.pdf
 file_size: 3348935
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
