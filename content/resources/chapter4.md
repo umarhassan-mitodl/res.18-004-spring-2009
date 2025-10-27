@@ -4,8 +4,6 @@ description: ''
 file: /courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/896044fdad1a561708c57296fbd9a6d4_chapter4.pdf
 file_size: 67013
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -7,8 +7,6 @@ description: 'Textbook Contents: The Glass Wall: Encouraging Interaction, Questi
   Feedback, Small Groups: Tutorials and Office Hours, Invisible Students, Teachers
   From Other Countries, Problem Students and Students with Problem, Epilogue: A Word
   about You, and Summary.'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Online Publication
@@ -23,7 +21,7 @@ Textbook
 Translations
 ------------
 
-*   German ([HTML](http://users.physik.tu-muenchen.de/teggert/torch/index.html))
+*   German ({{% resource_link "c8ed428e-edcd-48a2-8339-f422a20be29e" "HTML" %}})
 *   Spanish ({{% resource_link fe0156da-d4de-44ab-1043-827907bdb6a9 "PDF - 3.1MB" %}})
 
 Contents
